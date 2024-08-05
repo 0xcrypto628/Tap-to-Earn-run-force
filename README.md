@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/yellowflash628)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
